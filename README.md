@@ -3,10 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/velosofelipe64">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=velosofelipe64&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </div>
   
-  ##
   
   <div> 
   <a href = "mailto:renauxfelipe64@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
